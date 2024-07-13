@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.h-vh-90{
+    height: 91vh;
+}
+.blackheader{
+    background-color: #15151D;
+}
